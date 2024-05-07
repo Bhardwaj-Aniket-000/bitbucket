@@ -8,3 +8,12 @@ body {
 	height: 100vh;
 	width: 100vw;
 }
+h1{
+    color: aqua;
+    background-color: #000;
+}
+p
+{
+    color: yellow;
+    background-color: orange;
+}

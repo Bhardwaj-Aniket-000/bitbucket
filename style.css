@@ -22,4 +22,5 @@ img {
 	width: 400px;
 	border: 2px solid red;
 	border-radius: 100px;
+	z-index: 10;
 }
